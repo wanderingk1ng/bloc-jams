@@ -28,6 +28,12 @@ var albumPicasso = {
      ]
  };
 
+var albumInfinite ={
+    title: 'The Created',
+    artist: 'The Creator',
+    label:
+}
+
 var createSongRow = function(songNumber, songName, songLength) {
      var template =
         '<tr class="album-view-song-item">'
